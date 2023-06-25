@@ -1,24 +1,31 @@
-# README
+# 低血圧改善アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+低血圧に効くレシピを検索したり、自分が作った料理のレシピを投稿したりできるコミュニティサイト
+また、低血圧チェックを定期的にして、元気度100％を目指す
 
-Things you may want to cover:
+### テーマを選んだ理由
+私自身かなり低血圧ですが、低血圧は食事に気を遣うことで低血圧は改善すると考えられています。
+低血圧の方々がどんな料理をしているのかを知れるサービスがあれば便利だと考え、このテーマにしました。
 
-* Ruby version
+### ターゲットユーザ
+低血圧の方。低血圧のご家族がいる方。
 
-* System dependencies
+### 主な利用シーン
+料理のレシピを検索するとき、自分が作った料理のレシピを投稿するとき
 
-* Configuration
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
